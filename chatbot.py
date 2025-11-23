@@ -5,7 +5,7 @@ from groq import Groq
 st.set_page_config(page_title="Groq Chatbot", page_icon="🤖", layout="wide")
 
 # Title
-st.title("🤖 Groq AI Chatbot")
+st.title("🤖 Amarjeet's AI Chatbot")
 
 # Sidebar for API key and settings
 with st.sidebar:
